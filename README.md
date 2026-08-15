@@ -1,4 +1,3 @@
 # assignment
 hello world 
-nadina pahan
-apiit
+isuru shamal
