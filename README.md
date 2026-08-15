@@ -1,1 +1,4 @@
- mhjmthjcjm# assignment
+# assignment
+hello world 
+nadina pahan
+apiit
